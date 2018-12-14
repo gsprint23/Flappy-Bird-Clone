@@ -4,7 +4,7 @@
 //
 //  Created by Gina Sprint on 11/25/18.
 //  Copyright © 2018 Gina Sprint. All rights reserved.
-//
+// based on Rob Percival's Flappy Bird Clone
 
 import UIKit
 import SpriteKit
